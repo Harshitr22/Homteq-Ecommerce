@@ -16,4 +16,5 @@ I will make it responsive very soon and make some deisgn changes):
 http://homteq.infinityfreeapp.com/index.php
 
 If you want to enter the admin panel, here are details using which you can enter the admin panel as you cannot register as an admin
-        
+Email - testuser@gmail.com
+Pass - testuser
