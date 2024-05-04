@@ -11,7 +11,8 @@ If you want to further progress this web-application, Here are some things you n
 
 I personally used cyberDuck for testing purposes, which is provided by my university an tested it on their server.
 
-Here is the link if you want to check out how it looks:
+Here is the link if you want to check out how it looks (For now it is not responsive but 
+I will make it responsive very soon and make some deisgn changes):
 http://homteq.infinityfreeapp.com/index.php
 
 If you want to enter the admin panel, here are details using which you can enter the admin panel as you cannot register as an admin
